@@ -436,6 +436,7 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | ---------------------------------- | ---------------- | ---------- |
 | [1540](../codes/climate/1540.json) | SPIS412L         | Broadlink  |
 | [1541](../codes/climate/1541.json) | ABM859/G         | Broadlink  |
+| [1542](../codes/climate/1542.json) | SPIS412L (all modes: heat, cool, dry, fan, 16-30 °C, swing) | Broadlink  |
 
 #### Tadiran
 | Code                               | Supported Models | Controller |
